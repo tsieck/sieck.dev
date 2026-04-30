@@ -6,7 +6,6 @@ import {
   Mail,
   MonitorDot,
   Route,
-  Sparkles,
   Workflow,
 } from "lucide-react";
 
@@ -90,12 +89,6 @@ export const principles: Principle[] = [
     description:
       "Modern tools are useful when they help test ideas, shorten feedback loops, and leave judgment, taste, and responsibility intact.",
     icon: Cpu,
-  },
-  {
-    title: "Magic is mostly good defaults.",
-    description:
-      "The best moments feel effortless because the system noticed the shape of the task and got out of the way.",
-    icon: Sparkles,
   },
 ];
 

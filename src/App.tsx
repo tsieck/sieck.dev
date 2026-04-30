@@ -315,7 +315,7 @@ function Principles() {
         <h2 className="section-title">
           The kind of software I want to make, and the standard I want to hold it to.
         </h2>
-        <div className="grid gap-4 sm:grid-cols-2">
+        <div className="grid gap-4 md:grid-cols-3 lg:grid-cols-1 xl:grid-cols-3">
           {principles.map((principle) => {
             const Icon = principle.icon;
             return (
