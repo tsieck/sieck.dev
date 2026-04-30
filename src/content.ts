@@ -44,7 +44,7 @@ export const projects: Project[] = [
     name: "Rainpane",
     eyebrow: "Ambient desktop weather",
     description:
-      "A quiet Electron app for atmospheric focus: weather effects that sit behind the work instead of fighting for attention.",
+      "An ambient desktop focus overlay where rain, droplets, fog, and glassy effects live around the work while the active window stays clear.",
     status: "Shipping alpha builds",
     signal: "calm interfaces",
     repoUrl: "https://github.com/tsieck/rainpane",
@@ -62,11 +62,11 @@ export const projects: Project[] = [
   },
   {
     name: "Primebloom",
-    eyebrow: "Creative workspace experiment",
+    eyebrow: "Generative ambient instrument",
     description:
-      "A small workspace experiment for shaping rough ideas into polished artifacts through quieter, more intentional assistive workflows.",
-    status: "Active experiment",
-    signal: "thoughtful tooling",
+      "A contemplative generative audio-visual instrument that turns prime numbers into light, sparse ambient sound, and seeded slow performances.",
+    status: "Published static instrument",
+    signal: "ambient systems",
     repoUrl: "https://github.com/tsieck/Prime-Bloom",
     siteUrl: "https://tsieck.github.io/Prime-Bloom/",
   },
