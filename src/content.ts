@@ -60,7 +60,7 @@ export const projects: Project[] = [
     siteUrl: "https://tsieck.github.io/Alicante-Archive/",
   },
   {
-    name: "Primebloom",
+    name: "Prime Bloom",
     eyebrow: "Generative ambient instrument",
     description:
       "A contemplative generative audio-visual instrument that turns prime numbers into light, sparse ambient sound, and seeded slow performances.",
